@@ -1,31 +1,31 @@
 const users= [{
     "id": 13,
     "job": "Accountant",
-    "name": "John",
-    "target": 4
+    "name": "paul",
+    "target": 5
 },
 {
     "id": 103,
     "job": "Developer",
-    "name": "Mary",
+    "name": "sara",
     "target": 9
 },
 {
     "id": 18,
     "job": "Developer",
-    "name": "John",
+    "name": "mike",
     "target": 7
 },
 {
     "id": 85,
     "job": "Architect",
-    "name": "Dave",
+    "name": "david",
     "target": 3
 },
 {
     "id": 39,
     "job": "Developer",
-    "name": "Mary",
+    "name": "marlie",
     "target": 16
 }
 ];
